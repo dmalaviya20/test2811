@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "ava": "^6.2.0"
-  }
+  },
+  "name": "test2811",
+  "version": "1.0.0",
+  "description": "test2811",
+  "main": "hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "",
+  "license": "ISC"
 }
